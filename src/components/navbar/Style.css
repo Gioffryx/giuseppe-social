@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(236, 141, 117);
+}
+.pulsante{
+    border-radius: 40px;
+    background-color: red;
+    margin-left: 10px;
+
+}

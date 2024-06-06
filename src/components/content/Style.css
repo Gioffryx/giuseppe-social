@@ -1,0 +1,19 @@
+
+.post{
+    background-color: rgb(245, 245, 153);
+    border-radius: 20px;
+    padding: 10px;
+    margin:20px;
+    margin-top: 0;
+    margin-left:100px;
+    margin-right: 100px;
+}
+
+.titolo{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.id{
+    font-size: 24px;
+}
